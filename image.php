@@ -124,14 +124,14 @@ $annee = date('Y');
       </div>
       <div class="shots">
         <figure class="shot reveal">
-          <img src="img/cy-stage-accueil.png" alt="Page d'accueil de CY Stage Management : sélection du profil Tuteur, Administrateur ou Étudiant.">
+          <img src="cy-stage-accueil.png" alt="Page d'accueil de CY Stage Management : sélection du profil Tuteur, Administrateur ou Étudiant.">
           <figcaption>
             <b>// accueil.php</b>
             Point d'entrée de l'application : l'utilisateur choisit son profil (Tuteur, Administrateur ou Étudiant) avant d'accéder à son espace.
           </figcaption>
         </figure>
         <figure class="shot reveal">
-          <img src="img/cy-stage-dashboard.png" alt="Tableau de bord administrateur : compteurs de dossiers, statistiques, messagerie, notifications et gestion des dossiers.">
+          <img src="cy-stage-dashboard.png" alt="Tableau de bord administrateur : compteurs de dossiers, statistiques, messagerie, notifications et gestion des dossiers.">
           <figcaption>
             <b>// tabBordAdmin.php</b>
             Tableau de bord administrateur : compteurs en direct (étudiants en stage, dossiers en cours / à traiter / validés), statistiques, notifications, messagerie et gestion des dossiers.
