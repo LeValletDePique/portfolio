@@ -83,7 +83,7 @@ $annee = date('Y');
 
         <article class="proj reveal">
           <div class="proj-top">
-            <h3>Road to Le Mans</h3>
+            <h3>Racing lodging & mobility</h3>
             <span class="status live">en ligne</span>
           </div>
           <p>Plateforme de réservation d'hébergements et de transport pour les événements de circuit. Calendrier d'événements, comptes utilisateurs et compte à rebours dynamiques.</p>
@@ -108,7 +108,7 @@ $annee = date('Y');
           </div>
           <p>Plateforme de gestion des stages pour une école d'ingénieurs : suivi des offres, des candidatures et des étudiants, avec stockage des données côté serveur.</p>
           <div class="stack"><span class="chip">PHP</span><span class="chip">JavaScript</span><span class="chip">CSS</span></div>
-          <a class="proj-link" href="https://github.com/LeValletDePique" target="_blank" rel="noopener">Voir le code <span class="arrow">→</span></a>
+          <a class="proj-link" href="image.php" target="_blank" rel="noopener">Voir le code <span class="arrow">→</span></a>
         </article>
 
         <article class="proj reveal">
@@ -117,8 +117,8 @@ $annee = date('Y');
             <span class="status">projet</span>
           </div>
           <p>Application de score pour parties de belote, entièrement hors-ligne. Sauvegarde automatique des scores directement dans le navigateur.</p>
-          <div class="stack"><span class="chip">JavaScript</span><span class="chip">HTML</span><span class="chip">localStorage</span></div>
-          <a class="proj-link" href="\\wsl.localhost\Debian\home\antonin\belote" target="_blank" rel="noopener">Voir le code <span class="arrow">→</span></a>
+          <div class="stack"><span class="chip">PHP</span><span class="chip">JavaScript</span><span class="chip">CSS</span></div>
+          <a class="proj-link" href="http://portfolioantonin.alwaysdata.net/belote" target="_blank" rel="noopener">Voir le code <span class="arrow">→</span></a>
         </article>
 
       </div>
