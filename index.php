@@ -108,7 +108,7 @@ $annee = date('Y');
           </div>
           <p>Plateforme de gestion des stages pour une école d'ingénieurs : suivi des offres, des candidatures et des étudiants, avec stockage des données côté serveur.</p>
           <div class="stack"><span class="chip">PHP</span><span class="chip">JavaScript</span><span class="chip">CSS</span></div>
-          <a class="proj-link" href="image.php" target="_blank" rel="noopener">Voir le code <span class="arrow">→</span></a>
+          <a class="proj-link" href="image.php" target="_blank" rel="noopener">Voir le projet <span class="arrow">→</span></a>
         </article>
 
         <article class="proj reveal">
